@@ -97,7 +97,7 @@ if __name__ == '__main__':
     # print(len(characters))
     # print((characters))
 
-    horizontal2vertical(os.path.join(PATH, 'test.txt'), 10, right2left=False)
+    horizontal2vertical(os.path.join(PATH, 'test.txt'), 3, right2left=False)
 
     # np.savetxt('vertical.txt', characters, encoding='utf-8')
 
