@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f480b6b-ffaa-4cc0-98b5-de3b74e492dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/alien/alien.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/alien/alien_invaison.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/alien/bullet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/alien/game_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/alien/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/alien/ship.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/chapter10_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/chapter11_unitest_name_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/chapter11_unitest_test_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/data_visualization/chapter15_data_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/data_visualization/die.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/data_visualization/die_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/data_visualization/random_walk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/data_visualization/rw_walk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/data_visualization/squares_plot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python编程从入门到实践/pi_digits" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git_practice/name.py" beforeDir="false" afterPath="$PROJECT_DIR$/git_practice/name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python编程从入门到实践/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python编程从入门到实践/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python编程从入门到实践/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/python编程从入门到实践/text.py" afterDir="false" />
-    </list>
+    <list default="true" id="0f480b6b-ffaa-4cc0-98b5-de3b74e492dc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +36,7 @@
       <workItem from="1639645973754" duration="3000" />
       <workItem from="1639646250741" duration="4000" />
       <workItem from="1639663532444" duration="187000" />
+      <workItem from="1639668483810" duration="4000" />
     </task>
     <servers />
   </component>
